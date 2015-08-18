@@ -6,6 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//OpenMDCF from nuget
 namespace DocReader
 {
     class Program
