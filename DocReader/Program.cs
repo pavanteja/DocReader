@@ -15,7 +15,7 @@ namespace DocReader
         static void Main(string[] args)
         {
             string text = "";
-            using (CompoundFile wordDoc = new CompoundFile("E:\\sample.doc"))
+            using (CompoundFile wordDoc = new CompoundFile("D:\\satheesh_CV.new1.doc"))
             {
                 CFStream cf = wordDoc.RootStorage.GetStream("WordDocument");
 
